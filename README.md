@@ -1,2 +1,2 @@
 # InstantMessanger
-Thing that i made for some other guys lol
+Just run `java Server.java` and then `java Client.java` to start the thing
